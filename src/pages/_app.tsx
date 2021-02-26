@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }) {
       </Head>
       <Component {...pageProps} />;
     </ChallengesProvider>
-  )
+  );
 }
 
 export default MyApp;

@@ -38,7 +38,7 @@ const Countdown: React.FC = () => {
       {hasFinished ? (
         <button disabled className={styles.countdownButton}>
           Ciclo Encerrado
-          <img src="icons/level.svg" alt="Level" />
+          <img src="icons/check-circle.svg" alt="Level" />
         </button>
       ) : (
         <>

@@ -35,7 +35,7 @@ O app usa Gamificação criando desafios para adquirir experiência e subir de n
 
 ## - 🌐 Web
 
-> moveit-next-luizpedrosm.vercel.app
+[Moveit] - moveit-next-luizpedrosm.vercel.app
 
 ### 🖥️ Desktop
 
@@ -87,3 +87,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 [next.js]: https://nextjs.org/
 [nlw]: https://nextlevelweek.com/
+[Moveit]: https://moveit-next-luizpedrosm.vercel.app

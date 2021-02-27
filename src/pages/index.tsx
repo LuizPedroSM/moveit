@@ -47,7 +47,7 @@ export default function Home(props: HomeProps) {
         />
         <meta
           property="og:image"
-          content="https://github.com/LuizPedroSM/moveit/blob/main/public/logo-full.svg"
+          content="https://github.com/LuizPedroSM/moveit/blob/main/.github/img/logo.png"
           key="ogImage"
         />
 
@@ -73,7 +73,7 @@ export default function Home(props: HomeProps) {
         />
         <meta
           property="twitter:image"
-          content="https://github.com/LuizPedroSM/moveit/blob/main/public/logo-full.svg"
+          content="https://github.com/LuizPedroSM/moveit/blob/main/.github/img/logo.png"
           key="twitterImage"
         />
       </Head>

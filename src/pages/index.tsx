@@ -27,19 +27,55 @@ export default function Home(props: HomeProps) {
       <Head>
         <title>React NLW4 MoveIt</title>
         <meta name="title" content="React NLW4 MoveIt" key="title" />
-        <meta name="description" content="Aplicação feita em Next.js no NLW4. O MoveIt visa ajudar os usuários a exercitar-se após o cronômetro de 25 min. O app usa Gamificação criando desafios para adquirir experiência e subir de nível." key="description" />
+        <meta
+          name="description"
+          content="Aplicação feita em Next.js no NLW4. O MoveIt visa ajudar os usuários a exercitar-se após o cronômetro de 25 min. O app usa Gamificação criando desafios para adquirir experiência e subir de nível."
+          key="description"
+        />
 
         <meta property="og:type" content="website" key="ogType" />
-        <meta property="og:url" content="https://moveit-next-luizpedrosm.vercel.app/" key="ogUrl" />
+        <meta
+          property="og:url"
+          content="https://moveit-next-luizpedrosm.vercel.app/"
+          key="ogUrl"
+        />
         <meta property="og:title" content="React NLW4 MoveIt" key="ogTitle" />
-        <meta property="og:description" content="Aplicação feita em Next.js no NLW4. O MoveIt visa ajudar os usuários a exercitar-se após o cronômetro de 25 min. O app usa Gamificação criando desafios para adquirir experiência e subir de nível." key="ogDescription" />
-        <meta property="og:image" content="logo-full.svg" key="ogImage" />
+        <meta
+          property="og:description"
+          content="Aplicação feita em Next.js no NLW4. O MoveIt visa ajudar os usuários a exercitar-se após o cronômetro de 25 min. O app usa Gamificação criando desafios para adquirir experiência e subir de nível."
+          key="ogDescription"
+        />
+        <meta
+          property="og:image"
+          content="https://github.com/LuizPedroSM/moveit/blob/main/public/logo-full.svg"
+          key="ogImage"
+        />
 
-        <meta property="twitter:card" content="summary_large_image" key="twitterCard" />
-        <meta property="twitter:url" content="https://moveit-next-luizpedrosm.vercel.app/" key="twitterUrl" />
-        <meta property="twitter:title" content="React NLW4 MoveIt" key="twitterTitle" />
-        <meta property="twitter:description" content="Aplicação feita em Next.js no NLW4. O MoveIt visa ajudar os usuários a exercitar-se após o cronômetro de 25 min. O app usa Gamificação criando desafios para adquirir experiência e subir de nível." key="twitterDescription" />
-        <meta property="twitter:image" content="logo-full.svg" key="twitterImage" />
+        <meta
+          property="twitter:card"
+          content="summary_large_image"
+          key="twitterCard"
+        />
+        <meta
+          property="twitter:url"
+          content="https://moveit-next-luizpedrosm.vercel.app/"
+          key="twitterUrl"
+        />
+        <meta
+          property="twitter:title"
+          content="React NLW4 MoveIt"
+          key="twitterTitle"
+        />
+        <meta
+          property="twitter:description"
+          content="Aplicação feita em Next.js no NLW4. O MoveIt visa ajudar os usuários a exercitar-se após o cronômetro de 25 min. O app usa Gamificação criando desafios para adquirir experiência e subir de nível."
+          key="twitterDescription"
+        />
+        <meta
+          property="twitter:image"
+          content="https://github.com/LuizPedroSM/moveit/blob/main/public/logo-full.svg"
+          key="twitterImage"
+        />
       </Head>
 
       <div className={styles.container}>
